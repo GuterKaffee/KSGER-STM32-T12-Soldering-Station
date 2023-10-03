@@ -5,7 +5,8 @@ Schematics were adopted from eevblog floobydust. Minor changes were done
 e.g. Q4 was exchanged. 
 
 ## Present state:
-- Schematics were added and component prefixes were corrected. 
+- Schematics were added and component prefixes were corrected.
+- Connector names were corrected 
 
  
 ## Known issues:
