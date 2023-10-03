@@ -4,6 +4,9 @@ Here you find my redrawn Schematics of the KSGER STM32 T12 Ver. 2.1S.
 Schematics were adopted from eevblog floobydust. Minor changes were done
 e.g. Q4 was exchanged. 
 
+I am aiming at modifying the Schematics to increase the power to 200 W 
+to facilitate recent T245 soldering tips from Aixun. 
+
 ## Present state:
 - Untested Prototype
 Feel free, to forge & build it. Feadback would be nice. I am going to
