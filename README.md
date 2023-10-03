@@ -5,6 +5,20 @@ Schematics were adopted from eevblog floobydust. Minor changes were done
 e.g. Q4 was exchanged. 
 
 ## Present state:
+- Untested Prototype
+Feel free, to forge & build it. Feadback would be nice. I am going to
+build it by end of this year. At that point, I will create a first release
+including precompiled firmware and publish the project on EasyEDA.
+
+
+## Open issues:
+- Some capacitor values are missing
+- Design a 200 W 24 V Power supply
+- Draw PCBs
+- Build and test it
+
+
+## Recent changes: 
 - Schematics were added and component prefixes were corrected.
 - Connector names were corrected 
 
