@@ -8,7 +8,7 @@ I am aiming at modifying the Schematics to increase the power to 200 W
 to facilitate recent T245 soldering tips from Aixun. 
 
 ## Present state:
-- Untested Prototype
+- Untested Prototype   
 Feel free, to forge & build it. Feadback would be nice. I am going to
 build it by end of this year. At that point, I will create a first release
 including precompiled firmware and publish the project on EasyEDA.
